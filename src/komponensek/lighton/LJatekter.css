@@ -6,3 +6,12 @@
     border: 2px solid black;
     display: inline-block;
   }
+  .lJatekter {
+    margin: auto;
+  
+  width: 400px;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px;
+  gap: 10px;
+  }
