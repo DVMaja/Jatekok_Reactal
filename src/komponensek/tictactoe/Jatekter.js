@@ -2,6 +2,7 @@ import Elem from "./Elem"
 import './Jatekter.css';
 
 
+
 export default function Jatekter(props) {
 
     function katt(index) {

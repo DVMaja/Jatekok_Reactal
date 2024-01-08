@@ -6,7 +6,7 @@ class Modell {
     constructor() {
         this.#allapot = "X";
         this.#lepesszam = 0;
-        this.#lista = [".", ".", ".", ".", ".", ".", ".", ".", "."];
+        this.#lista = ["", "", "", "", "", "", "", "", ""];
     }
 
     getList() {

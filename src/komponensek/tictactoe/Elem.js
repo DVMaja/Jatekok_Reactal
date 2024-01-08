@@ -1,3 +1,5 @@
+import './Jatekter.css';
+
 export default function Elem(props) {
 
 
@@ -7,7 +9,7 @@ export default function Elem(props) {
 
     return (
         <div className="elem" onClick={katt}>
-            <p>{props.ertek}</p>
+            <p className="betu">{props.ertek}</p>
         </div>
     )
 
