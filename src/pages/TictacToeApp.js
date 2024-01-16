@@ -14,8 +14,6 @@ export default function TictacToeApp() {
         console.log(index);
         tmodel.setAllapot(index);
         setList(tmodel.getList()) // [...lista] tényleges új másolat
-
-
     }
 
     return (
